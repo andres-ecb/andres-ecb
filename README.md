@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola! 🎤📣
 
-<!--
-**andres-ecb/andres-ecb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas y Técnico en Programación de Software, con experiencia como desarrollador full-stack.
 
-Here are some ideas to get you started:
+## 🌍 Habilidades
+- Laravel
+- JavaScript
+- Python
+- Bases de Datos MySQL
+- PHP
+  
+## ⏳ Actualmente Aprendiendo
+- Pandas
+- Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Proyectos destacados
+- [Mi Proyecto Web](https://github.com/andres-ecb/almacen)
+
+## 📫 Contáctame
+- [LinkedIn](https://www.linkedin.com/in/andres-ecb)
